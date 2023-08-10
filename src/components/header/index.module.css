@@ -3,6 +3,13 @@
   justify-content: space-between;
 
   width: 100%;
+  background-color: rgb(27, 28, 28);
+
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px rgb(34, 188, 162);
+
+  margin-bottom: 1.4rem;
 }
 
 .div{

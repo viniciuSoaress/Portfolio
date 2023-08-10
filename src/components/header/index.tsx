@@ -1,5 +1,5 @@
 import s from './index.module.css'
-import { UserGithub } from "../../hooks/useGithub";
+import { UserGithub } from "../../hooks";
 
 type userProps = {
   user: UserGithub
